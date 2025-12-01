@@ -6,6 +6,7 @@
 
 🛠️ Building robust, scalable backend systems with clean architecture and efficient APIs.
 
+🤝 Enjoy collaborating on projects that challenge me and create real impact.
 <br/>  
 
 ## Stack
