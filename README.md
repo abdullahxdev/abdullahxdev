@@ -1,15 +1,15 @@
-# <div align="center">Hey! I’m Abdullah, a full-stack freelance web and app developer building products remotely.</div>
+## <div align="center">Hey! I’m Abdullah, a full-stack freelance web and app developer building products remotely.</div>
   
 ❓ Building clean, scalable, user-focused experiences.  
   
 🧠 Junior year computer science student @ COMSATS  
 
-🛠️ Building robust, scalable backend systems with clean architecture and efficient APIs.
+🛠️ Building robust backend systems with clean architecture and efficient APIs.
 
 🤝 Enjoy collaborating on projects that challenge me and create real impact.
 <br/>  
 
-# Stack
+## Stack
 
 Languages: 
 <br/>
@@ -35,3 +35,9 @@ Libraries/Frameworks:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+<br/>
+
+## Connect
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullahisdev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mabdullahxdev/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/mabdullah99)
