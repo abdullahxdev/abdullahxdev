@@ -1,4 +1,4 @@
-## *<div align="center">Hey! I’m Abdullah, a full-stack freelance web and app developer building products remotely.</div>*  
+## Hey! I’m Abdullah, a full-stack freelance web and app developer building products remotely.
   
 ❓ Building clean, scalable, user-focused experiences.  
   
