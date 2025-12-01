@@ -1,4 +1,4 @@
-## <div align="center">Hey! I’m Abdullah, a full-stack freelance web and app developer building products remotely.</div>
+# <div align="center">Hey! I’m Abdullah, a full-stack freelance web and app developer building products remotely.</div>
   
 ❓ Building clean, scalable, user-focused experiences.  
   
@@ -9,7 +9,7 @@
 🤝 Enjoy collaborating on projects that challenge me and create real impact.
 <br/>  
 
-## Stack
+# Stack
 
 Languages: 
 <br/>
