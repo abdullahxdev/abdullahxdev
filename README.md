@@ -1,4 +1,4 @@
-## <div align="center">I build full-stack web apps, RAG chatbots, and AI agents remotely."</div>
+## <div align="center">I'm Abdullah & I build full-stack web apps, RAG chatbots, and AI agents remotely."</div>
   
 - Building clean, scalable, user-focused experiences.  
   
