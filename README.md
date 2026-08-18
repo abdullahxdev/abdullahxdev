@@ -1,4 +1,4 @@
-## <div align="center">Hey! I’m Abdullah, a full-stack freelance AI web and app developer building products, systems, RAG Chatbots & AI Agents remotely.</div>
+## <div align="center">I build full-stack web apps, RAG chatbots, and AI agents remotely."</div>
   
 - Building clean, scalable, user-focused experiences.  
   
