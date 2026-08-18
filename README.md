@@ -1,12 +1,12 @@
 ## <div align="center">Hey! I’m Abdullah, a full-stack freelance AI web and app developer building products, systems, RAG Chatbots & AI Agents remotely.</div>
   
-❓ Building clean, scalable, user-focused experiences.  
+- Building clean, scalable, user-focused experiences.  
   
-🧠 Junior year computer science student @ COMSATS  
+- Junior year computer science student @ COMSATS  
 
-🛠️ Building robust backend systems with clean architecture and efficient APIs.
+- Building robust backend systems with clean architecture and efficient APIs.
 
-🤝 Enjoy collaborating on projects that challenge me and create real impact.
+- Enjoy collaborating on projects that challenge me and create real impact.
 <br/>  
 
 ## Stack
