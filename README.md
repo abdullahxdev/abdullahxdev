@@ -2,7 +2,7 @@
   
 - Building clean, scalable, user-focused experiences.  
   
-- Junior year computer science student @ COMSATS  
+- senior year computer science student @ COMSATS  
 
 - Building robust backend systems with clean architecture and efficient APIs.
 
